@@ -1,0 +1,22 @@
+.root {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  min-height: 100vh;
+}
+
+
+
+.body {
+  flex-grow: 2;
+  color: var(--black);
+  flex-direction: column;
+  background: linear-gradient(
+    to bottom,
+    var(--color-gray-900),
+    var(--color-gray-1000)
+  );
+  background-clip: padding-box;
+  backdrop-filter: blur(24px);
+
+}

@@ -1,0 +1,12 @@
+.root {
+    margin: 8px 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.sm{
+    font-size: 14px;
+}
+
+.md{
+    font-size: 20px;
+}

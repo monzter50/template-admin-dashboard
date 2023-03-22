@@ -1,0 +1,6 @@
+.aside {
+  flex-grow: 1;
+  flex-basis: 20%;
+  max-width: 400px;
+  background-color: var(--black);
+}
